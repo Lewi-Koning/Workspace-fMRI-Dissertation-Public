@@ -7,6 +7,7 @@ The dissertation was part of a postgraduate course on cognitive neurosceince at 
 Folders:
 - Self assessment manikin task results - **Behavioural_Results**
 - A series of Python scripts used within the experiment (including SAM task and MRI session scripts) - **code**
+- Outputs from the MRI experiment including outputs from the Neuroarch_MRI_Exp.py script - **MRI_Outputs**
 - The final stimuli produced in collaboration with the Fosters and Partners architectural firm - **Stimuli**
 
 Along with a markdown file named **setup** that contains information on the arrangement of the MRI machine written by Dr Denis Schluppeck
