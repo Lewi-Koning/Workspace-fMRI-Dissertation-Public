@@ -1,13 +1,15 @@
 # Summary of repository
 
-A repository containing code, results, and stimuli related to a disseration on office workspaces that utilises fMRI
+A repository containing code, results, and stimuli related to a disseration on office workspaces using fMRI
 
 The dissertation was part of a postgraduate course on cognitive neurosceince at the University of Nottingham guided by Dr Denis Schluppeck
 
 Folders:
 - Self assessment manikin task results - **Behavioural_Results**
-- A series of Python scripts used within the experiment (including SAM task and MRI session scripts) - **code**
-- Outputs from the MRI experiment including outputs from the Neuroarch_MRI_Exp.py script - **MRI_Outputs**
+- A series of Python scripts used within the experiment (including SAM task and MRI session scripts) - **Code**
+- The set of documents each subject was required to complete before participating - **Documents**
+- Outputs from the MRI experiment including outputs from the Neuroarch_MRI_Exp.py script - **MRI_analysis**
+- The resulting saliency distribution maps and statstics from the saliency analysis - **Saliency_Results**
 - The final stimuli produced in collaboration with the Fosters and Partners architectural firm - **Stimuli**
 
-Along with a markdown file named **setup** that contains information on the arrangement of the MRI machine written by Dr Denis Schluppeck
+Along with a markdown file named **setup** which contains information on the arrangement of the MRI machine written by Dr Denis Schluppeck
